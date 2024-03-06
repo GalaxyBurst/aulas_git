@@ -1,0 +1,1 @@
+<h1>Isso é <s>uma perda de tempo</s> um branch de teste</h1>
