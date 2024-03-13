@@ -1,4 +1,4 @@
-<h1>Repositório Aula Git</h1>
+<h1>Repositório Aula de Dor</h1>
 <h2>Autor: Pedro Prevides</h2>
 
 <h3>Eu estou em dor excruciante<h3>
